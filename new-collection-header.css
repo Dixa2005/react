@@ -1,0 +1,13 @@
+.newcollection-title {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .newcollection-sub {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    opacity: 0.6;
+    width: 50%;
+    margin: auto;
+  }
